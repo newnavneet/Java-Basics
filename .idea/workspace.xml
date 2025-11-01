@@ -4,34 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae962e03-6624-4a75-8b7e-c5046e6fa9bf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jvadsa.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Break.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Functions/Greeting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Functions/SUM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SquarePattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/CaseCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/Counting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/Fabonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/Nestedswitch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/Prime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/Red.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/Reverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/Switch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/Temparature.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/TypeCasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/largest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/loops.java" afterDir="false" />
-    </list>
+    <list default="true" id="ae962e03-6624-4a75-8b7e-c5046e6fa9bf" name="Changes" comment="initial" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -110,12 +83,13 @@
     "Application.q8.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Asus/IdeaProjects/Java",
-    "project.structure.last.edited": "Libraries",
+    "project.structure.last.edited": "Problems",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.pluginManager"
@@ -150,6 +124,23 @@
       <option name="presentableId" value="Default" />
       <updated>1706709122402</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial">
+      <option name="closed" value="true" />
+      <created>1761989085699</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1761989085699</updated>
+    </task>
+    <task id="LOCAL-00002" summary="initial">
+      <option name="closed" value="true" />
+      <created>1761989099933</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1761989099933</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -162,6 +153,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
