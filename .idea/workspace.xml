@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ae962e03-6624-4a75-8b7e-c5046e6fa9bf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jvadsa.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Break.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Functions/Greeting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Functions/SUM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SquarePattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/CaseCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/Counting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/Fabonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/Nestedswitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/Prime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/Red.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/Temparature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/TypeCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/largest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/loops.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2bisEFKlgelYJbLx3ZgjpqYxbTJ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Age.executor": "Run",
+    "Application.Armstrong.executor": "Run",
+    "Application.BinarySearch.executor": "Run",
+    "Application.Break.executor": "Run",
+    "Application.Calculator.executor": "Run",
+    "Application.ChangeValue.executor": "Run",
+    "Application.Circle.executor": "Run",
+    "Application.Combine.executor": "Run",
+    "Application.Compound.executor": "Run",
+    "Application.Factor.executor": "Run",
+    "Application.Greeting.executor": "Run",
+    "Application.Input.executor": "Run",
+    "Application.InvertedPyramid.executor": "Run",
+    "Application.Largest.executor": "Run",
+    "Application.Li.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Message.executor": "Run",
+    "Application.Multidimension.executor": "Debug",
+    "Application.Nonrepeat.executor": "Run",
+    "Application.ODD.executor": "Run",
+    "Application.One.executor": "Run",
+    "Application.Overloading.executor": "Run",
+    "Application.P.executor": "Run",
+    "Application.PassingExample.executor": "Run",
+    "Application.PassingFunction.executor": "Run",
+    "Application.Prime.executor": "Run",
+    "Application.Q1.executor": "Run",
+    "Application.Q2.executor": "Run",
+    "Application.Q3.executor": "Run",
+    "Application.Question1.executor": "Run",
+    "Application.Red.executor": "Run",
+    "Application.Reverse.executor": "Run",
+    "Application.Riyanshu.executor": "Run",
+    "Application.RunningSum.executor": "Run",
+    "Application.SUM.executor": "Run",
+    "Application.SquarePattern.executor": "Run",
+    "Application.Sum.executor": "Run",
+    "Application.Swap.executor": "Run",
+    "Application.Switch.executor": "Run",
+    "Application.Symmetry.executor": "Run",
+    "Application.TwoSum.executor": "Run",
+    "Application.TypeCasting.executor": "Run",
+    "Application.VarArgs.executor": "Run",
+    "Application.q8.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Asus/IdeaProjects/Java",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LL1.Main" />
+      <module name="Jvadsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LL1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae962e03-6624-4a75-8b7e-c5046e6fa9bf" name="Changes" comment="" />
+      <created>1706709122402</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706709122402</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Functions/Message.java</url>
+          <line>19</line>
+          <properties class="Functions.Message">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Functions/Message.java</url>
+          <line>5</line>
+          <properties class="Functions.Message">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Functions/ChangeValue.java</url>
+          <line>5</line>
+          <properties class="Functions.ChangeValue">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint enabled="true" type="java-exception" />
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
