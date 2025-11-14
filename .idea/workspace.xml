@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae962e03-6624-4a75-8b7e-c5046e6fa9bf" name="Changes" comment="initial" />
+    <list default="true" id="ae962e03-6624-4a75-8b7e-c5046e6fa9bf" name="Changes" comment="i">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/Swap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/Swap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,12 +45,14 @@
     "Application.Armstrong.executor": "Run",
     "Application.BinarySearch.executor": "Run",
     "Application.Break.executor": "Run",
+    "Application.Bubble.executor": "Run",
     "Application.Calculator.executor": "Run",
     "Application.ChangeValue.executor": "Run",
     "Application.Circle.executor": "Run",
     "Application.Combine.executor": "Run",
     "Application.Compound.executor": "Run",
     "Application.Factor.executor": "Run",
+    "Application.GFG.executor": "Run",
     "Application.Greeting.executor": "Run",
     "Application.Input.executor": "Run",
     "Application.InvertedPyramid.executor": "Run",
@@ -72,6 +78,7 @@
     "Application.Riyanshu.executor": "Run",
     "Application.RunningSum.executor": "Run",
     "Application.SUM.executor": "Run",
+    "Application.Selection.executor": "Run",
     "Application.SquarePattern.executor": "Run",
     "Application.Sum.executor": "Run",
     "Application.Swap.executor": "Run",
@@ -89,7 +96,7 @@
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Asus/IdeaProjects/Java",
-    "project.structure.last.edited": "Problems",
+    "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.pluginManager"
@@ -140,7 +147,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761989099933</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="i">
+      <option name="closed" value="true" />
+      <created>1761989374342</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1761989374342</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -156,7 +171,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial" />
+    <MESSAGE value="i" />
+    <option name="LAST_COMMIT_MESSAGE" value="i" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
