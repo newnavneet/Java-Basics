@@ -57,13 +57,16 @@
     "Application.Largest.executor": "Run",
     "Application.Li.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MaxSubarray.executor": "Run",
     "Application.Message.executor": "Run",
+    "Application.MinCoin.executor": "Debug",
     "Application.Multidimension.executor": "Debug",
     "Application.Nonrepeat.executor": "Run",
     "Application.ODD.executor": "Run",
     "Application.One.executor": "Run",
     "Application.Overloading.executor": "Run",
     "Application.P.executor": "Run",
+    "Application.Pairs.executor": "Debug",
     "Application.PassingExample.executor": "Run",
     "Application.PassingFunction.executor": "Run",
     "Application.Prime.executor": "Run",
@@ -79,14 +82,21 @@
     "Application.SUM.executor": "Run",
     "Application.Selection.executor": "Run",
     "Application.SquarePattern.executor": "Run",
+    "Application.Subarray.executor": "Run",
     "Application.Sum.executor": "Run",
     "Application.Swap.executor": "Run",
     "Application.Switch.executor": "Run",
     "Application.Symmetry.executor": "Run",
+    "Application.TopFrequent.executor": "Run",
     "Application.TwoSum.executor": "Run",
     "Application.TypeCasting.executor": "Run",
     "Application.VarArgs.executor": "Run",
+    "Application.XOR.executor": "Run",
     "Application.q8.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
@@ -115,8 +125,50 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MinCoin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DP.MinCoin" />
+      <module name="Jvadsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.Pairs" />
+      <module name="Jvadsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TopFrequent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.TopFrequent" />
+      <module name="Jvadsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MinCoin" />
+        <item itemvalue="Application.Pairs" />
+        <item itemvalue="Application.TopFrequent" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -162,7 +214,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763103145157</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="i">
+      <option name="closed" value="true" />
+      <created>1763277429566</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1763277429566</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -187,7 +247,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Functions/Message.java</url>
           <line>19</line>
-          <properties class="Functions.Message">
+          <properties class="Functions.Message" method="greet">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -196,7 +256,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Functions/Message.java</url>
           <line>5</line>
-          <properties class="Functions.Message">
+          <properties class="Functions.Message" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -205,7 +265,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Functions/ChangeValue.java</url>
           <line>5</line>
-          <properties class="Functions.ChangeValue">
+          <properties class="Functions.ChangeValue" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
